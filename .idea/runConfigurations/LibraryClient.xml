@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="LibraryClient" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="LibraryClient" />
+    <module name="LibraryClientAndServer" />
+    <option name="PROGRAM_PARAMETERS" value="127.0.0.1 4444" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
