@@ -8,7 +8,6 @@ import java.net.URL;
 public class BookProtocol {
     private static final int WAITING = 0;
     private static final int RECEIVEDISBN = 1;
-    private static final int SENDINFO = 2;
     private static final int ANOTHER = 3;
 
     private int state = WAITING;
